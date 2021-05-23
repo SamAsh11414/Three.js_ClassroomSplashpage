@@ -54,6 +54,7 @@ canvas {
 
 
   header {
+    border-radius: 25px;
     background: var(--dark-bg);
     grid-column: 2 / span 3;
     font-size: 2.5rem;
