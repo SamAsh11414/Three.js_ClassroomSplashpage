@@ -14,7 +14,8 @@ canvas {
   font-family: brandon-grotesque, sans-serif;
   font-weight: 400;
   font-style: normal;
-  overflow: hidden;
+  scrollbar-width: none;  /* Firefox */
+  -ms-overflow-style: none;  /* Internet Explorer 10+ Cringe */
 }
 
 
